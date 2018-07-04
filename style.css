@@ -1,0 +1,101 @@
+
+header h3 {
+	margin-top: 2%;
+}
+header h3 span {
+	color: #fff;
+	background-color: #515a75;
+	padding: 0 10px;
+	font-size: 100%;
+}
+.logo {
+	margin-top: 10px;
+}
+#circle {
+	background-color: #515a75;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	margin: 0 auto;
+}
+.heart   {
+	font-size: 15px;
+	color: #ff0000;
+	position: relative;
+	top: -18px;
+	left: -13px;
+	z-index: 1;
+}
+.fa-heart-2 {
+	font-size: 20px;
+	color: #fff;
+	top: -16px;
+	left: -35px;
+	z-index: 0;
+}
+.js-scroll-trigger {
+	border: 1px solid black;
+	border-radius:100%;
+}
+.fa-angle-down {
+	color: black;
+}
+.news img {
+	min-width: 250px;
+	width: 80%;
+	height: auto;
+}
+
+.info {
+	width: 55%;
+	margin: 0 auto;
+	border-left: 1px solid black;
+	padding: 10px 20px
+}
+.far {
+	color: #fff;
+	position: absolute;
+	left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 4em;
+	
+}
+.info {
+	position: relative;
+}
+.video {
+	position: relative;
+	margin-bottom: 40px;
+}
+.date {
+	position: absolute;
+	width: 40px;
+	left: -18px;
+	top: 10px;
+	background: #fff;
+	color: #ff0000;
+
+}
+footer {
+	background: #515a75;
+	color: #fff;
+	margin-top: 50px;
+	padding-top: 20px;
+}
+footer h6 {
+	background: #fff;
+	color: #515a75;
+	width: 20%;
+	margin: 0 auto;
+
+}
+footer ul {
+	margin-top: 20px;
+}
+footer p {
+	margin-top: 50px;
+	font-size: 0.5em;
+}
